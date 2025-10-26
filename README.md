@@ -144,8 +144,8 @@ app/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/BlrHives.git
-cd BlrHives
+git clone https://github.com/nayansm004/Blr-hives.git
+cd Blr-hives
 
 # Open in Android Studio and sync Gradle
 # Run on emulator or device
