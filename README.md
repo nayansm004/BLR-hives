@@ -156,8 +156,8 @@ cd BlrHives
 ## 👨‍💻 Author
 
 **[Nayan S]**
-- GitHub: [@yourusername](https://github.com/nayansm004)
-- LinkedIn: [Your Profile](https://linkedin.com/in/nayansm004)
+- GitHub: [@nayansm004](https://github.com/nayansm004)
+- LinkedIn: [Nayan S](https://linkedin.com/in/nayansm004)
 
 ---
 
